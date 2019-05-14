@@ -22,3 +22,32 @@ body {
   color: white;
   font-weight: bold;
 }
+
+.bwprocess h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+#bwdesign {
+  background-image: url("../../resources/images/the-flatiron-building.png");
+}
+
+#bwdesign h3 {
+  color: white;
+}
+
+footer {
+  text-align: left;
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+}
